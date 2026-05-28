@@ -1,6 +1,6 @@
 # 🎬 Système de Recommandation de Films — Cinéma Local
 
-![Aperçu de l'application Streamlit](Capture d'écran 2026-05-28 110126.png)
+![Aperçu de l'application Streamlit](Capture%20d'écran%202026-05-28%20110126.png)
 
 ## 📌 Contexte du Projet
 Ce projet a été réalisé dans le cadre de ma formation de Data Analyst à la Wild Code School. L'objectif était de concevoir un outil d'aide à la décision et d'optimisation de l'expérience utilisateur pour un cinéma local, en lui permettant de proposer des recommandations de films hautement personnalisées à ses clients.
